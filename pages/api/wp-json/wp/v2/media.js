@@ -93,7 +93,7 @@ const sampleResponse = [
       },
       image_meta: {
         aperture: "1.8",
-        credit: "Scott Reilly",
+        credit: "Zack Krida",
         camera: "Pixel 2 XL",
         caption: "",
         created_timestamp: "1591460495",
@@ -229,7 +229,7 @@ const sampleResponse = [
       },
       image_meta: {
         aperture: "1.8",
-        credit: "Scott Reilly",
+        credit: "Zack Krida",
         camera: "Pixel 2 XL",
         caption: "",
         created_timestamp: "1567454664",
