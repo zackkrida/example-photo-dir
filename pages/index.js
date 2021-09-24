@@ -58,6 +58,18 @@ export default function Home() {
           <code>x-wp-totalpages</code>
         </li>
       </ul>
+      <p>
+        You can learn more about WordPress REST API Pagination{" "}
+        <a href="https://developer.wordpress.org/rest-api/using-the-rest-api/pagination/">
+          here.
+        </a>
+      </p>
+      <h2>Images</h2>
+      <p>
+        Images are hosted on a CDN in folders by date. For our purposes here all
+        photos are dated for May of 2021 and located a mock CDN endpoint{" "}
+        <code>https://photodir.zack.cat/cdn/2021/05/</code>
+      </p>
     </div>
   );
 }
